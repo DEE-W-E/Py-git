@@ -3,6 +3,11 @@ def summ_2_numbers():
     b = int(input())
     return print(a+b)
 
+def subtracrion():
+    a = int(input())
+    b = int(input())
+    return print(a-b)
+
 
 
 
